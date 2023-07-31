@@ -3,9 +3,7 @@
 <h1 align="center">Hola 👋, Soy Aitor</h1>
 <h3 align="center">Soy un desarrollador apasionado del frontend</h3>
 
-- 🔭 Ahora mismo estoy desarrollando [ScreenHub](https://github.com/AitorMenacho/ScreenHub)
-
-- 🌱 Estoy aprendiendo **Next.js, TypeScript, Tailwind**
+- 🌱 Estoy aprendiendo **Next.js, Tailwind**
 
 - 👯 He colaborado en el desarrollo de [StarsHome](https://github.com/aortega1441/Proyecto_Alquiler_Planetas)
 
